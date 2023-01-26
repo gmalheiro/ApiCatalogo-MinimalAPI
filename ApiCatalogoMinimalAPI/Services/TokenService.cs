@@ -8,7 +8,7 @@ namespace ApiCatalogoMinimalAPI.Services
 {
     public class TokenService : ITokenService
     {
-        public string gerarToken(string key, string issuer, string audience, UserModel user)
+        public string GerarToken(string key, string issuer, string audience, UserModel user)
         {
             var claims = new[]
             {

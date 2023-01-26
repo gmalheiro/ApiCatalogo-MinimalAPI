@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bkphwTDZAwXGy5/RfexlGFgjf+jQ4i19jdvxDtW4DSpMOgUMIw1oKs3P/OkohTI/HBBVRSj5LQIizrAa3eTsrA==",
+  "dgSpecHash": "BJ2pzKC7oSET3RCPIs6DUd1BzaY0grxIhsoQWKdswTxwtM+NQz4EJ75bUR8KT7lLnLSoHcvb8oRvRvzDx+LjfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\g.silva.malheiro\\Documents\\Programming\\Back\\.NET\\ApiCatalogoMinimalAPI\\ApiCatalogoMinimalAPI\\ApiCatalogoMinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.2\\microsoft.aspnetcore.authentication.jwtbearer.6.0.2.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
@@ -25,6 +26,8 @@
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.26.0\\microsoft.identitymodel.abstractions.6.26.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.26.0\\microsoft.identitymodel.jsonwebtokens.6.26.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.logging\\6.26.0\\microsoft.identitymodel.logging.6.26.0.nupkg.sha512",
+    "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.26.0\\microsoft.identitymodel.tokens.6.26.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\g.silva.malheiro\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

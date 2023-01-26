@@ -52,3 +52,11 @@ C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\
 C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\ApiCatalogoMinimalAPI\ApiCatalogoMinimalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

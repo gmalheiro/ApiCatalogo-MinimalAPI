@@ -4,6 +4,6 @@ namespace ApiCatalogoMinimalAPI.Services
 {
     public interface ITokenService
     {
-        string gerarToken(string key, string issuer, string audience, UserModel user);
+        string GerarToken(string key, string issuer, string audience, UserModel user);
     }
 }
