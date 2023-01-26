@@ -1,6 +1,9 @@
 using ApiCatalogoMinimalAPI.Context;
 using ApiCatalogoMinimalAPI.Models;
+using ApiCatalogoMinimalAPI.Services;
 using Microsoft.EntityFrameworkCore;
+
+
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +16,15 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 
 builder.Services.AddDbContext<AppDbContext>(options =>
                 options
-                .UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+                .UseMySql(connectionString, 
+                ServerVersion.AutoDetect(connectionString)));
+
+
+builder.Services.AddSingleton<ITokenService>(new TokenService());
+
+builder.Services.AddAuthentication
+                (JwtBearerDefaults.AuthenticationScheme
+                .AddJwtBearer);
 
 var app = builder.Build();
 //Defining endpoints
